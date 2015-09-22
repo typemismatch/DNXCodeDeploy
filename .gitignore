@@ -41,7 +41,6 @@ dlldata.c
 # DNX
 project.lock.json
 artifacts/
-
 *_i.c
 *_p.c
 *_i.h
@@ -161,6 +160,8 @@ AppPackages/
 !*.[Cc]ache/
 
 # Others
+*.[Cc]ache
+
 ClientBin/
 [Ss]tyle[Cc]op.*
 ~$*
