@@ -1,7 +1,13 @@
 # DNXCodeDeploy
 AWS Code Deploy using the .NET cross platform DNX from Microsoft
 
-# Welcome to ASP.NET 5 Preview
+Run locally using DNX KESTREL
+
+Install : OSX :
+
+
+
+# Welcome to ASP.NET 5 Preview - notes below are default from YO generator!
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
 
